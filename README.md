@@ -1,0 +1,43 @@
+Privacy Policy for CurbSuite Sales
+Last Updated: April 6, 2026
+
+CurbSuite Sales ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information when you use our mobile application.
+
+1. Information Collection and Use
+To provide our services, we collect certain information necessary for app functionality and secure payment processing.
+
+Camera Access: Our app requires access to your device camera specifically for barcode scanning via Google ML Kit. This allows you to identify products and streamline the sales process. Images captured are processed locally on your device and are not stored or transmitted to our servers.
+
+Location Information: We collect precise and approximate location data (GPS and network-based) to facilitate secure transactions. This is required by our payment processor, Square, for fraud prevention and regulatory compliance.
+
+Financial Data: All payments are processed securely through the Square Mobile Payments SDK. While you provide payment information (such as credit card details) within the app interface, this data is transmitted directly to Square. We do not store raw credit card numbers or sensitive authentication data on our servers.
+
+Device Identifiers: We may collect unique device identifiers (such as Android ID) to maintain security sessions and prevent fraudulent activity.
+
+2. Data Sharing with Third Parties
+We do not sell your personal data. We share information with third-party service providers only as necessary to operate the app:
+
+Square: To process payments, verify transaction locations, and prevent fraud.
+
+Google Play Services / ML Kit: To enable barcode scanning and app performance monitoring.
+
+3. Permissions
+The app requests the following permissions for the reasons stated:
+
+CAMERA: For scanning product barcodes.
+
+ACCESS_FINE_LOCATION / ACCESS_COARSE_LOCATION: For payment security and Square hardware connectivity.
+
+BLUETOOTH_SCAN / CONNECT: To connect to Square contactless card readers.
+
+RECORD_AUDIO: To support Square card readers that utilize the mobile device's audio jack. We do not record or store ambient audio.
+
+4. Data Retention
+Since CurbSuite Sales does not require user accounts, we do not maintain persistent personal profiles. Transaction records are maintained by our payment processor (Square) in accordance with financial record-keeping laws.
+
+5. Children’s Privacy
+Our services are not directed at children under the age of 13. We do not knowingly collect personal information from children.
+
+6. Contact Us
+If you have any questions regarding this Privacy Policy or our data practices, please contact us at:
+[Insert Your Support Email Address Here]
